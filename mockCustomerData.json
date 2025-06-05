@@ -1,0 +1,47 @@
+[
+  {
+    "customerId": "CUST001",
+    "assetType": "Forklift",
+    "leaseEndDate": "2025-08-15",
+    "currentUtilization": 88,
+    "paymentBehavior": "on-time",
+    "crmEngagementScore": 8.2,
+    "recommendedUpgrade": "Forklift Premium Plan"
+  },
+  {
+    "customerId": "CUST002",
+    "assetType": "Mini Van",
+    "leaseEndDate": "2025-07-01",
+    "currentUtilization": 76,
+    "paymentBehavior": "delayed",
+    "crmEngagementScore": 6.5,
+    "recommendedUpgrade": "Fleet Flex Lease Plan"
+  },
+  {
+    "customerId": "CUST003",
+    "assetType": "Excavator",
+    "leaseEndDate": "2025-06-20",
+    "currentUtilization": 92,
+    "paymentBehavior": "on-time",
+    "crmEngagementScore": 9.1,
+    "recommendedUpgrade": "Excavator X-Series Bundle"
+  },
+  {
+    "customerId": "CUST004",
+    "assetType": "Heavy Duty Truck",
+    "leaseEndDate": "2025-09-10",
+    "currentUtilization": 81,
+    "paymentBehavior": "intermittent",
+    "crmEngagementScore": 5.4,
+    "recommendedUpgrade": "Truck Performance Plus Plan"
+  },
+  {
+    "customerId": "CUST005",
+    "assetType": "Forklift",
+    "leaseEndDate": "2025-10-05",
+    "currentUtilization": 60,
+    "paymentBehavior": "on-time",
+    "crmEngagementScore": 4.8,
+    "recommendedUpgrade": "Forklift Light Usage Plan"
+  }
+]
